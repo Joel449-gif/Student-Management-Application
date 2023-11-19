@@ -29,4 +29,4 @@ Open a web browser and browse the project.
 Username: admin
 Password: admin123
 
-## Check this project - (Student Management Application)[http://studentmanagementapplication.great-site.net/]
+## Check this project - [Student Management Application](http://studentmanagementapplication.great-site.net/)
