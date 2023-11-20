@@ -129,7 +129,7 @@
     </div>
   </footer>
 </div>
-<!-- ./wrapper  $_SESSION['system']['name'] -->
+<!-- ./wrapper -->
 
 <!-- REQUIRED SCRIPTS -->
 <!-- jQuery -->
